@@ -4,6 +4,8 @@ A minimal, mobile-friendly earnings stopwatch in rubles.
 
 Set an hourly rate and start earning. Choose an earlier start time if work has already begun, or adjust it during a session. The timer continues across reloads and closed tabs until you stop it. Finished sessions are saved in recent history.
 
+Use **Pause** to freeze elapsed time and earnings, then **Resume** to continue the same session. **Stop** finishes the session and adds it to history. Pauses persist across reloads and closed tabs, and paused time is excluded from earnings.
+
 To start with time already elapsed, choose **Start time → Elapsed** and enter hours, minutes, and seconds (for example, `6`, `42`, `0`). For a running session, choose **Adjust → Elapsed time** to update the duration and recalculate earnings. Hours can exceed 24. **Custom** supports a start date and time including seconds.
 
 ## Run locally
